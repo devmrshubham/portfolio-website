@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.72267ed0.css",
-    "main.js": "/portfolio-website/static/js/main.ca977280.js",
-    "static/media/contact.jpg": "/portfolio-website/static/media/contact.c8e0a62326985020c387.jpg",
-    "static/media/shubham.jpg": "/portfolio-website/static/media/shubham.f84371b0a0b9b8b44b0f.jpg",
+    "main.css": "/portfolio-website/static/css/main.d860bf00.css",
+    "main.js": "/portfolio-website/static/js/main.264aaeb9.js",
+    "static/media/contact-register.jpg": "/portfolio-website/static/media/contact-register.986f355f45f06dd97ae2.jpg",
     "static/media/recipe-app.jpeg": "/portfolio-website/static/media/recipe-app.a3ceb90647792329d1ad.jpeg",
     "static/media/accordian.jpg": "/portfolio-website/static/media/accordian.eab175877cc700c29379.jpg",
     "static/media/movie-search-app.jpeg": "/portfolio-website/static/media/movie-search-app.18013682ada8802f4e5e.jpeg",
     "static/media/quiz-app.jpeg": "/portfolio-website/static/media/quiz-app.9db7e46d209ac43d5657.jpeg",
+    "static/media/Shubham Mern.pdf.pdf": "/portfolio-website/static/media/Shubham Mern.pdf.463d44da9565986c8aef.pdf",
     "static/media/weather-app.jpeg": "/portfolio-website/static/media/weather-app.49075df3eb52a7143d3e.jpeg",
-    "static/media/FB_IMG_1691311025140.jpg": "/portfolio-website/static/media/FB_IMG_1691311025140.5951a2d7fab951dc7c6b.jpg",
     "static/media/greeting.jpg": "/portfolio-website/static/media/greeting.17df3afbefdacddd52a4.jpg",
     "static/media/calculator.jpg": "/portfolio-website/static/media/calculator.ec92a1451c310c3d0d40.jpg",
     "static/media/stopwatch.jpg": "/portfolio-website/static/media/stopwatch.5dd43d1a1cbc10751020.jpg",
     "static/media/Capture.PNG": "/portfolio-website/static/media/Capture.9f28f3a7b28095845d6c.PNG",
+    "static/media/photo2.jpg": "/portfolio-website/static/media/photo2.167b19a97f4ceb7d69cf.jpg",
     "index.html": "/portfolio-website/index.html",
-    "main.72267ed0.css.map": "/portfolio-website/static/css/main.72267ed0.css.map",
-    "main.ca977280.js.map": "/portfolio-website/static/js/main.ca977280.js.map"
+    "main.d860bf00.css.map": "/portfolio-website/static/css/main.d860bf00.css.map",
+    "main.264aaeb9.js.map": "/portfolio-website/static/js/main.264aaeb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.72267ed0.css",
-    "static/js/main.ca977280.js"
+    "static/css/main.d860bf00.css",
+    "static/js/main.264aaeb9.js"
   ]
 }
