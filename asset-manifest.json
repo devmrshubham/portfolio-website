@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.bc0c6e3f.css",
+    "main.css": "/portfolio-website/static/css/main.1a01c436.css",
     "main.js": "/portfolio-website/static/js/main.259a4a8f.js",
     "static/media/contact-register.jpg": "/portfolio-website/static/media/contact-register.986f355f45f06dd97ae2.jpg",
     "static/media/recipe-app.jpeg": "/portfolio-website/static/media/recipe-app.a3ceb90647792329d1ad.jpeg",
@@ -15,11 +15,11 @@
     "static/media/Capture.PNG": "/portfolio-website/static/media/Capture.9f28f3a7b28095845d6c.PNG",
     "static/media/photo2.jpg": "/portfolio-website/static/media/photo2.167b19a97f4ceb7d69cf.jpg",
     "index.html": "/portfolio-website/index.html",
-    "main.bc0c6e3f.css.map": "/portfolio-website/static/css/main.bc0c6e3f.css.map",
+    "main.1a01c436.css.map": "/portfolio-website/static/css/main.1a01c436.css.map",
     "main.259a4a8f.js.map": "/portfolio-website/static/js/main.259a4a8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc0c6e3f.css",
+    "static/css/main.1a01c436.css",
     "static/js/main.259a4a8f.js"
   ]
 }
