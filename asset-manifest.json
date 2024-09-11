@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.1a01c436.css",
-    "main.js": "/portfolio-website/static/js/main.259a4a8f.js",
+    "main.js": "/portfolio-website/static/js/main.6e9b3751.js",
     "static/media/contact-register.jpg": "/portfolio-website/static/media/contact-register.986f355f45f06dd97ae2.jpg",
     "static/media/recipe-app.jpeg": "/portfolio-website/static/media/recipe-app.a3ceb90647792329d1ad.jpeg",
     "static/media/accordian.jpg": "/portfolio-website/static/media/accordian.eab175877cc700c29379.jpg",
     "static/media/movie-search-app.jpeg": "/portfolio-website/static/media/movie-search-app.18013682ada8802f4e5e.jpeg",
     "static/media/quiz-app.jpeg": "/portfolio-website/static/media/quiz-app.9db7e46d209ac43d5657.jpeg",
-    "static/media/Shubham Mern.pdf.pdf": "/portfolio-website/static/media/Shubham Mern.pdf.463d44da9565986c8aef.pdf",
     "static/media/weather-app.jpeg": "/portfolio-website/static/media/weather-app.49075df3eb52a7143d3e.jpeg",
+    "static/media/shubham Mern.pdf": "/portfolio-website/static/media/shubham Mern.57cf3f416e238c07b94b.pdf",
     "static/media/greeting.jpg": "/portfolio-website/static/media/greeting.17df3afbefdacddd52a4.jpg",
     "static/media/calculator.jpg": "/portfolio-website/static/media/calculator.ec92a1451c310c3d0d40.jpg",
     "static/media/stopwatch.jpg": "/portfolio-website/static/media/stopwatch.5dd43d1a1cbc10751020.jpg",
@@ -16,10 +16,10 @@
     "static/media/photo2.jpg": "/portfolio-website/static/media/photo2.167b19a97f4ceb7d69cf.jpg",
     "index.html": "/portfolio-website/index.html",
     "main.1a01c436.css.map": "/portfolio-website/static/css/main.1a01c436.css.map",
-    "main.259a4a8f.js.map": "/portfolio-website/static/js/main.259a4a8f.js.map"
+    "main.6e9b3751.js.map": "/portfolio-website/static/js/main.6e9b3751.js.map"
   },
   "entrypoints": [
     "static/css/main.1a01c436.css",
-    "static/js/main.259a4a8f.js"
+    "static/js/main.6e9b3751.js"
   ]
 }
