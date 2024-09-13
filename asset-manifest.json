@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.af8e650e.css",
-    "main.js": "/portfolio-website/static/js/main.ab8722b2.js",
+    "main.js": "/portfolio-website/static/js/main.ae14f6ae.js",
     "static/media/contact-register.jpg": "/portfolio-website/static/media/contact-register.986f355f45f06dd97ae2.jpg",
     "static/media/recipe-app.jpeg": "/portfolio-website/static/media/recipe-app.a3ceb90647792329d1ad.jpeg",
     "static/media/accordian.jpg": "/portfolio-website/static/media/accordian.eab175877cc700c29379.jpg",
@@ -16,10 +16,10 @@
     "static/media/photo2.jpg": "/portfolio-website/static/media/photo2.167b19a97f4ceb7d69cf.jpg",
     "index.html": "/portfolio-website/index.html",
     "main.af8e650e.css.map": "/portfolio-website/static/css/main.af8e650e.css.map",
-    "main.ab8722b2.js.map": "/portfolio-website/static/js/main.ab8722b2.js.map"
+    "main.ae14f6ae.js.map": "/portfolio-website/static/js/main.ae14f6ae.js.map"
   },
   "entrypoints": [
     "static/css/main.af8e650e.css",
-    "static/js/main.ab8722b2.js"
+    "static/js/main.ae14f6ae.js"
   ]
 }
