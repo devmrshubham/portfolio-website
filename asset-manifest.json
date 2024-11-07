@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.8a9ff834.css",
-    "main.js": "/portfolio-website/static/js/main.5a85c803.js",
+    "main.js": "/portfolio-website/static/js/main.8470283b.js",
     "static/media/recipe-app.png": "/portfolio-website/static/media/recipe-app.951ddc2fcb0d0c21d10d.png",
     "static/media/movie-search-app.png": "/portfolio-website/static/media/movie-search-app.aeff60ce0e61eeb920ae.png",
     "static/media/ecommers-app.png": "/portfolio-website/static/media/ecommers-app.ca56052fbe610b73f510.png",
@@ -10,16 +10,16 @@
     "static/media/greeting-website.png": "/portfolio-website/static/media/greeting-website.5c14d0d72b598e2997d2.png",
     "static/media/calculator-app.png": "/portfolio-website/static/media/calculator-app.50d6433895dae32ca849.png",
     "static/media/stopwatch.png": "/portfolio-website/static/media/stopwatch.e12c30f995ea8b0b0aab.png",
-    "static/media/shubham Mern.pdf": "/portfolio-website/static/media/shubham Mern.1dad78ff7f1d2645ed2d.pdf",
+    "static/media/shubham (2).pdf": "/portfolio-website/static/media/shubham (2).5ed4a248f7264b47d120.pdf",
     "static/media/contact-register.jpeg": "/portfolio-website/static/media/contact-register.bbfe2bd2482d784b97ff.jpeg",
     "static/media/Capture.PNG": "/portfolio-website/static/media/Capture.9f28f3a7b28095845d6c.PNG",
     "static/media/photo2.jpg": "/portfolio-website/static/media/photo2.167b19a97f4ceb7d69cf.jpg",
     "index.html": "/portfolio-website/index.html",
     "main.8a9ff834.css.map": "/portfolio-website/static/css/main.8a9ff834.css.map",
-    "main.5a85c803.js.map": "/portfolio-website/static/js/main.5a85c803.js.map"
+    "main.8470283b.js.map": "/portfolio-website/static/js/main.8470283b.js.map"
   },
   "entrypoints": [
     "static/css/main.8a9ff834.css",
-    "static/js/main.5a85c803.js"
+    "static/js/main.8470283b.js"
   ]
 }
